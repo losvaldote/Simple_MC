@@ -1,0 +1,15 @@
+Om			\Omega_m*
+Obh2			\Omega_bh^2
+h			h
+w			w_0
+wa			w_a
+wMO			w_{MO}
+DR11LOWZ_like 			DR11LOWZ
+DR11CMASS_like 			DR11CMASS
+DR11LyaAuto_like 			DR11LyaAuto
+DR11LyaCross_like 			DR11LyaCross
+SixdFGS_like 			SixdFGS
+MGS_like 			MGS
+SPlanck_like 			SPlanck
+BetouleSN_like 			BetouleSN
+theory_prior 			 None 
